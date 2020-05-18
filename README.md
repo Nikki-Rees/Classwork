@@ -1,2 +1,2 @@
-# discworld
+# classwork
 For all class activities
